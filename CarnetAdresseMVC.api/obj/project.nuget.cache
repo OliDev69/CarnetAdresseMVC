@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TjezWIPiwfnUQUsl/37/H4wdEvS6lZkoJnwAIKvcIill7EWPtqUBbZjv0B+A5oV1PQ8FtL8YRHtP2miefFjnmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\o.cleda\\Desktop\\GitOli\\CarnetAdresseMVC\\CarnetAdresseMVC.api\\CarnetAdresseMVC.api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\o.cleda\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}

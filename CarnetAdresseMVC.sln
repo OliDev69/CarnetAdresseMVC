@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarnetAdresseMVC.api", "CarnetAdresseMVC.api\CarnetAdresseMVC.api.csproj", "{FE54ED3F-85BB-47EE-8DE0-63A6945A6964}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE54ED3F-85BB-47EE-8DE0-63A6945A6964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE54ED3F-85BB-47EE-8DE0-63A6945A6964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE54ED3F-85BB-47EE-8DE0-63A6945A6964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE54ED3F-85BB-47EE-8DE0-63A6945A6964}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6EE2297-72FC-4B73-9D55-25B3470A2C2E}
+	EndGlobalSection
+EndGlobal
