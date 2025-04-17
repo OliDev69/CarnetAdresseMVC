@@ -6524,9 +6524,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitOli\\CarnetAdresseMVC\\CarnetAdresseMVC.api\\CarnetAdresseMVC.api.csproj",
-      "projectName": "CarnetAdresseMVC.api",
-      "projectPath": "E:\\GitOli\\CarnetAdresseMVC\\CarnetAdresseMVC.api\\CarnetAdresseMVC.api.csproj",
+      "projectUniqueName": "E:\\GitOli\\CarnetAdresseMVC\\CarnetAdresseMVC.api\\CarnetAdresseMVC.csproj",
+      "projectName": "CarnetAdresseMVC",
+      "projectPath": "E:\\GitOli\\CarnetAdresseMVC\\CarnetAdresseMVC.api\\CarnetAdresseMVC.csproj",
       "packagesPath": "C:\\Users\\o.cleda\\.nuget\\packages\\",
       "outputPath": "E:\\GitOli\\CarnetAdresseMVC\\CarnetAdresseMVC.api\\obj\\",
       "projectStyle": "PackageReference",

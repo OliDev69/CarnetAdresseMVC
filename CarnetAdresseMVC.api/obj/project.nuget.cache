@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7rORSwbBwO7O0b6ydYGKsRrw0rB4SXpqdk/DWj92egXEd5H6KYO5nn9JSJlPUlEPL3R3eCu9kvMxQAqFH/aKbQ==",
+  "dgSpecHash": "1ystxdQuK1bsLfPAQiJpi7ugwsYNx+mGxPXhDX/CCdSUbfixa3P1pZDkFPpYZDDzKW4jlRhaaltse9tLaQiQnw==",
   "success": true,
-  "projectFilePath": "E:\\GitOli\\CarnetAdresseMVC\\CarnetAdresseMVC.api\\CarnetAdresseMVC.api.csproj",
+  "projectFilePath": "E:\\GitOli\\CarnetAdresseMVC\\CarnetAdresseMVC.api\\CarnetAdresseMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\o.cleda\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\o.cleda\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
