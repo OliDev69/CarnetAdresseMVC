@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\o.cleda\\Desktop\\GitOli\\CarnetAdresseMVC\\CarnetAdresseMVC.api\\CarnetAdresseMVC.api.csproj": {}
+    "E:\\GitOli\\CarnetAdresseMVC\\CarnetAdresseMVC.api\\CarnetAdresseMVC.api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\o.cleda\\Desktop\\GitOli\\CarnetAdresseMVC\\CarnetAdresseMVC.api\\CarnetAdresseMVC.api.csproj": {
+    "E:\\GitOli\\CarnetAdresseMVC\\CarnetAdresseMVC.api\\CarnetAdresseMVC.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\o.cleda\\Desktop\\GitOli\\CarnetAdresseMVC\\CarnetAdresseMVC.api\\CarnetAdresseMVC.api.csproj",
+        "projectUniqueName": "E:\\GitOli\\CarnetAdresseMVC\\CarnetAdresseMVC.api\\CarnetAdresseMVC.api.csproj",
         "projectName": "CarnetAdresseMVC.api",
-        "projectPath": "C:\\Users\\o.cleda\\Desktop\\GitOli\\CarnetAdresseMVC\\CarnetAdresseMVC.api\\CarnetAdresseMVC.api.csproj",
+        "projectPath": "E:\\GitOli\\CarnetAdresseMVC\\CarnetAdresseMVC.api\\CarnetAdresseMVC.api.csproj",
         "packagesPath": "C:\\Users\\o.cleda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\o.cleda\\Desktop\\GitOli\\CarnetAdresseMVC\\CarnetAdresseMVC.api\\obj\\",
+        "outputPath": "E:\\GitOli\\CarnetAdresseMVC\\CarnetAdresseMVC.api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -47,9 +47,21 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.19.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [

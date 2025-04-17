@@ -5,6 +5,15 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarnetAdresseMVC.api", "CarnetAdresseMVC.api\CarnetAdresseMVC.api.csproj", "{FE54ED3F-85BB-47EE-8DE0-63A6945A6964}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Éléments de solution", "Éléments de solution", "{41E94DA3-6984-4B56-B8C0-FFDD11B9D51B}"
+	ProjectSection(SolutionItems) = preProject
+		main.yml = main.yml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{D1A4978C-D3CA-4736-A55C-03E1BC68CBAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestsCarnetAdresse", "TestsCarnetAdresse\TestsCarnetAdresse.csproj", "{999437D8-BC15-4C24-8A8D-4054BE9EC950}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +24,16 @@ Global
 		{FE54ED3F-85BB-47EE-8DE0-63A6945A6964}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE54ED3F-85BB-47EE-8DE0-63A6945A6964}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE54ED3F-85BB-47EE-8DE0-63A6945A6964}.Release|Any CPU.Build.0 = Release|Any CPU
+		{999437D8-BC15-4C24-8A8D-4054BE9EC950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{999437D8-BC15-4C24-8A8D-4054BE9EC950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{999437D8-BC15-4C24-8A8D-4054BE9EC950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{999437D8-BC15-4C24-8A8D-4054BE9EC950}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{999437D8-BC15-4C24-8A8D-4054BE9EC950} = {D1A4978C-D3CA-4736-A55C-03E1BC68CBAB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D6EE2297-72FC-4B73-9D55-25B3470A2C2E}
