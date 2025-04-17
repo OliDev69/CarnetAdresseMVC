@@ -5,14 +5,14 @@ namespace TestsCarnetAdresse
     public class UnitTest1
     {
         [Fact]
-        [Description("")]
+        [Description("Création d'un contact")]
         public void CreateContact()
         {
 
         }
 
         [Fact]
-        [Description("")]
+        [Description("Suppression d'un contact")]
         public void DeleteContact()
         {
 
